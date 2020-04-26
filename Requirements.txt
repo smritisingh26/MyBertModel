@@ -1,0 +1,13 @@
+The following modules are needed to recreate this project locally:
+1. Jupyter Notebook (via Jupyterlab or anaconda, with a kernel that runs at least on Python3)
+2. conda (to create a workspace)
+3. A workspace with the following libraries installed:
+  i) numpy
+  ii)pandas
+  iii)sklearn
+  iv)praw-the reddit api
+  v)ktrain from pypi (v>=0.13.2)
+  vi)flask
+  vii) docker engine
+  viii) tensorflow 
+NOTE: Due to large size of application (1.3 GB), this web app has been deployed via AWS instead of Heroku.
