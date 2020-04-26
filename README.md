@@ -2,9 +2,9 @@
 A reddit flair detector based web app, trained on BERT from ktrain
 
 This repository contains the following:
-1. Jupyter notebook: consists of the code used to train and test the model
+1. Jupyter notebook: consists of the code used in the entire project.
 
-2. scripts: contains the executable code used to scrape information from reddit and the code used to build the web app: 
+2. Scripts: contains the executable code used to scrape information from reddit and the code used to build the web app: 
 - scrape.py- Executed to collect data from r/India. 
 - Bert.py-Executed to train model on collected data
 - FinalScript.py- Executed to deploy and launch web app locally
